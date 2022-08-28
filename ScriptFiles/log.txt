@@ -1,0 +1,192 @@
+
+Server IP is : 192.168.1.3:443
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+<GET_FW_VERSION
+   FIRMWARE_VERSION = "2.03"
+   FIRMWARE_DATE = "Nov 07 2014"
+   MANAGEMENT_PROCESSOR = "iLO4"
+   LICENSE_TYPE = "iLO 4 Standard"
+    />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+     <SERVER_NAME VALUE="RO-OP-SERVER-1"/>
+     <SERVER_OSNAME VALUE="Microsoft Windows Server 2012 R2 Standard"/>
+     <SERVER_OSVERSION VALUE="6.3"/>
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+  <GET_PRODUCT_NAME>
+    <PRODUCT_NAME VALUE ="ProLiant DL360p Gen8"/>
+  </GET_PRODUCT_NAME>
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+<GET_EMBEDDED_HEALTH_DATA>
+     <NIC_INFORMATION>
+          <NIC>
+               <NETWORK_PORT VALUE = "Port 1"/>
+               <PORT_DESCRIPTION VALUE = "HP Ethernet 1Gb 4-port 331FLR Adapter"/>
+               <LOCATION VALUE = "Embedded"/>
+               <MAC_ADDRESS VALUE = "40:a8:f0:20:2d:78"/>
+               <IP_ADDRESS VALUE = "192.168.1.3"/>
+               <STATUS VALUE = "OK"/>
+          </NIC>
+          <NIC>
+               <NETWORK_PORT VALUE = "Port 2"/>
+               <PORT_DESCRIPTION VALUE = "HP Ethernet 1Gb 4-port 331FLR Adapter #2 - GigaLinx Image Filter Driver"/>
+               <LOCATION VALUE = "Embedded"/>
+               <MAC_ADDRESS VALUE = "40:a8:f0:20:2d:79"/>
+               <IP_ADDRESS VALUE = "N/A"/>
+               <STATUS VALUE = "Link Down"/>
+          </NIC>
+          <NIC>
+               <NETWORK_PORT VALUE = "Port 3"/>
+               <PORT_DESCRIPTION VALUE = "N/A"/>
+               <LOCATION VALUE = "Embedded"/>
+               <MAC_ADDRESS VALUE = "40:a8:f0:20:2d:7a"/>
+               <IP_ADDRESS VALUE = "N/A"/>
+               <STATUS VALUE = "Unknown"/>
+          </NIC>
+          <NIC>
+               <NETWORK_PORT VALUE = "Port 4"/>
+               <PORT_DESCRIPTION VALUE = "N/A"/>
+               <LOCATION VALUE = "Embedded"/>
+               <MAC_ADDRESS VALUE = "40:a8:f0:20:2d:7b"/>
+               <IP_ADDRESS VALUE = "N/A"/>
+               <STATUS VALUE = "Unknown"/>
+          </NIC>
+          <iLO>
+               <NETWORK_PORT VALUE = "iLO Dedicated Network Port"/>
+               <PORT_DESCRIPTION VALUE = "iLO Dedicated Network Port"/>
+               <LOCATION VALUE = "Embedded"/>
+               <MAC_ADDRESS VALUE = "38:63:bb:46:56:10"/>
+               <IP_ADDRESS VALUE = "192.168.1.3"/>
+               <STATUS VALUE = "OK"/>
+          </iLO>
+     </NIC_INFORMATION>
+     <HEALTH_AT_A_GLANCE>
+          <BIOS_HARDWARE STATUS= "OK"/>
+          <FANS STATUS= "OK"/>
+          <FANS REDUNDANCY= "Redundant"/>
+          <TEMPERATURE STATUS= "OK"/>
+          <POWER_SUPPLIES STATUS= "OK"/>
+          <POWER_SUPPLIES REDUNDANCY= "Redundant"/>
+          <PROCESSOR STATUS= "OK"/>
+          <MEMORY STATUS= "OK"/>
+          <NETWORK STATUS= "Link Down"/>
+          <STORAGE STATUS= "OK"/>
+     </HEALTH_AT_A_GLANCE>
+</GET_EMBEDDED_HEALTH_DATA>
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+<?xml version="1.0"?>
+<RIBCL VERSION="2.23">
+<RESPONSE
+    STATUS="0x0000"
+    MESSAGE='No error'
+     />
+</RIBCL>
+
+
+Script succeeded for IP:192.168.1.3:443
