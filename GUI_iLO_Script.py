@@ -229,8 +229,6 @@ def Text_To_Excel():
             Formatting(Range_All, ' Failed', RedFormat)
             Formatting(Range_All, '192.168', LightBlueFormat)
             Formatting(Range_All, 'RO-OP', LightBlueFormat)
-            Formatting('A2:B100', 'DU', LightBlueFormat)
-            Formatting(Range_All, 'NAHALG', LightBlueFormat)
             Formatting(Range_All, 'ProLiant', LightBrownFormat)
             Formatting(Range_All, ' Not', OrangeFormat)
             Formatting(Range_All, 'Degraded', OrangeFormat)
